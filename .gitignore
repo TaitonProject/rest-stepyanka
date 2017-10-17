@@ -1,0 +1,10 @@
+
+.idea/inspectionProfiles/
+.idea/modules.xml
+.idea/rest-stepyanka.iml
+.idea/workspace.xml
+bin/
+node_modules/
+npm-debug.log
+public/images/
+public/javascripts/
